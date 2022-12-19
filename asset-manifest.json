@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61456a8f.css",
+    "main.js": "/static/js/main.be531740.js",
+    "static/media/forum141222.mp4": "/static/media/forum141222.d3600b3e77b3a3955b8d.mp4",
+    "static/media/logo.png": "/static/media/logo.5b46306f091524130038.png",
+    "static/media/bg.avif": "/static/media/bg.40fddb1d08d64ad8812c.avif",
+    "index.html": "/index.html",
+    "main.61456a8f.css.map": "/static/css/main.61456a8f.css.map",
+    "main.be531740.js.map": "/static/js/main.be531740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61456a8f.css",
+    "static/js/main.be531740.js"
+  ]
+}
